@@ -15,4 +15,4 @@ A clean, beautiful typing speed test built with pure HTML, CSS, and JavaScript.
 Just open `typing-speed-test.html` in any browser and start typing!
 
 ## Live Demo
-[Play here](https://yourusername.github.io/typing-speed-test)
+[Play here](https://nisar-ali-khan.github.io/typing-speed-test/typing-speed-test.html)
